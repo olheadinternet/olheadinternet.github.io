@@ -1,5 +1,3 @@
-# Yunginter.net/
-
 Hi, I'm Zach!  
 
 nostr pubkey: npub1tltf8es60957eawprkl4ecs2akkpe6n3wgt4tvphj4vef0mqvxasv6ve7g  
