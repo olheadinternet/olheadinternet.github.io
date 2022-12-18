@@ -8,5 +8,5 @@ nostr pubkey: npub1tltf8es60957eawprkl4ecs2akkpe6n3wgt4tvphj4vef0mqvxasv6ve7g
 
 [mastadon](https://mastodon.social/@internetgod)  
 
-[soundcloud](soundcloud.com/z10021)  
+[soundcloud](https://soundcloud.com/z10021)  
 
