@@ -2,12 +2,13 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>
-    {
-  "names": {
-    "zach": "5fd693e61a7969ecf5c11dbf5ce20aedac1cea71721755b037955994bf6061bb"
-  }
-}
+    <title>nostr.json?name=zach
 </title>
   </head>
 </html>
+
+{
+  "names": {
+    "bob": "b0635d6a9851d3aed0cd6c495b282167acf761729078d975fc341b22650b07b9"
+  }
+}
